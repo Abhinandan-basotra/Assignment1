@@ -1,0 +1,12 @@
+Setup instructions:
+
+1. Install Mongo db locally-
+- https://www.mongodb.com/try/download/community
+  Download MongoDB Community Server Download
+- https://www.mongodb.com/try/download/compass
+  Download mongo db compass
+
+2. cd /backend
+  run "npm run dev"
+3. cd /frontend
+  run "npm run dev"
